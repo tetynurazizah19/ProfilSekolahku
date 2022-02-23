@@ -12,6 +12,7 @@
         <entry key="..\:/Users/PC 22/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_perpus.xml" value="0.14444444444444443" />
         <entry key="..\:/Users/PC 22/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_profil.xml" value="0.1" />
         <entry key="..\:/Users/PC 22/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/slider_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/aldi/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.119" />
         <entry key="..\:/Users/aldi/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_albumhutri.xml" value="0.1308876811594203" />
         <entry key="..\:/Users/aldi/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_albumpmr.xml" value="0.14130434782608695" />
         <entry key="..\:/Users/aldi/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_albumpramuka.xml" value="0.1" />
@@ -23,6 +24,10 @@
         <entry key="..\:/Users/aldi/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_buku9.xmlactivity_buku9.xml.xml" value="0.165625" />
         <entry key="..\:/Users/aldi/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_ekskul.xml" value="0.1408514492753623" />
         <entry key="..\:/Users/aldi/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_galeri.xml" value="0.165625" />
+        <entry key="..\:/Users/aldi/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_guru_dan_staf.xml" value="0.1" />
+        <entry key="..\:/Users/aldi/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_osis.xml" value="0.1" />
+        <entry key="..\:/Users/aldi/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_splash_screen.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/aldi/AndroidStudioProjects/ProfilSekolahku/app/src/main/res/layout/activity_splash_screen.xml.xml" value="0.16822916666666668" />
       </map>
     </option>
   </component>
