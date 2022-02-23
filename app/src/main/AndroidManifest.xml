@@ -9,7 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolahku">
-        <activity android:name=".Activity_fasilitas_Activity"></activity>
+        <activity
+            android:name=".FutsalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PmrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PramukaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OsisActivity"
+            android:exported="false" />
         <activity
             android:name=".ProfilActivity"
             android:exported="false" />
