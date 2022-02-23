@@ -150,8 +150,8 @@
                                 android:layout_height="80dp"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:onClick="Ekskul"
-                                android:src="@drawable/ekstrakulikuler" />
+                                android:onClick="ekskul"
+                                android:src="@drawable/ekskul" />
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
