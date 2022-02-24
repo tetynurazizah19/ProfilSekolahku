@@ -1,6 +1,7 @@
 package com.example.profilsekolahku;
 
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -29,5 +30,17 @@ public class EkskulActivity extends AppCompatActivity {
         sliderView.setIndicatorAnimation(IndicatorAnimationType.WORM);
         sliderView.setSliderTransformAnimation(SliderAnimations.DEPTHTRANSFORMATION);
         sliderView.startAutoCycle();
+    }
+
+    public void badminton(View view) {
+    }
+
+    public void pramuka(View view) {
+    }
+
+    public void pmr(View view) {
+    }
+
+    public void futsal(View view) {
     }
 }
