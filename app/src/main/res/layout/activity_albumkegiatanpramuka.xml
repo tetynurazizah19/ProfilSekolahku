@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".PmrActivity">
+    tools:context=".AlbumkegiatanpramukaActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="-156dp"
+        tools:layout_editor_absoluteY="111dp">
 
         <HorizontalScrollView
             android:layout_width="wrap_content"
@@ -20,7 +22,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:orientation="horizontal">
-
+                <!--              GAMBAR 1-->
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -31,17 +33,20 @@
                         android:layout_width="400dp"
                         android:layout_height="wrap_content"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/pmr1"/>
-
-                    <RelativeLayout
-                        android:layout_width="7dp"
-                        android:layout_height="match_parent" />
+                        android:src="@drawable/prakarya" />
 
                 </LinearLayout>
+                <!--                TUTUP GAMBAR 1-->
+
+                <!--                JARAK ANTAR GAMBAR-->
+                <RelativeLayout
+                    android:layout_width="7dp"
+                    android:layout_height="match_parent" />
             </LinearLayout>
         </HorizontalScrollView>
+
         <LinearLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:orientation="vertical">
@@ -50,31 +55,34 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="12dp"
-                android:layout_marginRight="12dp"
-                android:layout_marginTop="8dp">
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="12dp">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="8dp"
-                    android:layout_marginRight="8dp"
+                    android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
-                    android:textColor="@color/black"
-                    android:text="PELANTIKAN PMR MADYA"/>
+                    android:layout_marginRight="5dp"
+                    android:text="KEGIATAN PRAKAYA"
+                    android:textColor="#000"
+                    android:textSize="10dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="8dp"
-                    android:layout_marginRight="8dp"
+                    android:layout_marginLeft="5dp"
                     android:layout_marginTop="20dp"
-                    android:textColor="@color/black"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque diam volutpat commodo sed. Leo a diam sollicitudin tempor id eu nisl nunc. Sed nisi lacus sed viverra. Tristique senectus et netus et. Elit at imperdiet dui accumsan sit amet. Odio facilisis mauris sit amet massa vitae tortor condimentum lacinia. Tellus id interdum velit laoreet id donec ultrices. Massa eget egestas purus viverra accumsan. Turpis cursus in hac habitasse platea dictumst quisque sagittis."/>
+                    android:layout_marginRight="5dp"
+                    android:textAlignment="center"
+                    android:text="Prakarya adalah hasil buat tangan pra artinya sendiri dan karya artinya kerja bisa jadi, bisa artikan prakarya adalah karya sendiri (kerja sendiri) atau hasil karya buatan tangan."
+                    android:textColor="#000"
+                    android:textSize="10dp" />
 
             </androidx.cardview.widget.CardView>
-
         </LinearLayout>
     </LinearLayout>
-</RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

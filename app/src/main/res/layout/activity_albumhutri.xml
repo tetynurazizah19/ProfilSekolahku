@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".albumpmr_Activity">
+    tools:context=".AlbumhutriActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -20,7 +20,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:orientation="horizontal">
-
+                <!--              GAMBAR 1-->
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -29,34 +29,17 @@
 
                     <ImageView
                         android:layout_width="400dp"
-                        android:adjustViewBounds="true"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/albumhutri"/>
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/senitari2" />
 
-                </LinearLayout>
+               </LinearLayout>
+                <!--                TUTUP GAMBAR 1-->
 
+                <!--                JARAK ANTAR GAMBAR-->
                 <RelativeLayout
                     android:layout_width="7dp"
                     android:layout_height="match_parent"/>
-
-                <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:orientation="vertical">
-
-                    <ImageView
-                        android:layout_width="400dp"
-                        android:adjustViewBounds="true"
-                        android:layout_height="wrap_content"
-                        android:src="@drawable/albumhutri"/>
-
-                </LinearLayout>
-
-                <RelativeLayout
-                    android:layout_width="7dp"
-                    android:layout_height="match_parent"/>
-
             </LinearLayout>
         </HorizontalScrollView>
 
@@ -81,9 +64,8 @@
                     android:layout_marginRight="5dp"
                     android:layout_marginTop="5dp"
                     android:textColor="#000"
-                    android:textSize="10sp"
-                    android:textStyle="bold"
-                    android:text="PERAYAAN HUT RI"/>
+                    android:textSize="10dp"
+                    android:text="SENI TARI"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -94,12 +76,10 @@
                     android:textAlignment="center"
                     android:layout_marginTop="20dp"
                     android:textColor="#000"
-                    android:textSize="10sp"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut "/>
-
+                    android:textSize="10dp"
+                    android:text=" Pengertian seni tari merupakan sebuah ungkapan yang berasal dari dalam jiwa manusia yang kemudian diekspresikan melalui gerakan indah juga ritmis. Sehingga, bisa dimaksudkan bahwa ungkapan ini untuk menunjukkan atau melimpahkan emosional seseorang yang setiap gerakannya disesuaikan bersamaan nada serta irama yang mengiringi."/>
             </androidx.cardview.widget.CardView>
-
         </LinearLayout>
     </LinearLayout>
 
-</RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

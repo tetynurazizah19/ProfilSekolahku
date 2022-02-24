@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolahku">
         <activity
+            android:name=".AlbumkegiatanpmrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumkegiatanpramukaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumhutriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OsisActivity"
+            android:exported="false" />
+        <activity
             android:name=".buku9Activity"
             android:exported="false" />
         <activity
@@ -29,9 +41,6 @@
             android:exported="false" />
         <activity
             android:name=".PramukaActivity"
-            android:exported="false" />
-        <activity
-            android:name=".OsisActivity"
             android:exported="false" />
         <activity
             android:name=".ProfilActivity"

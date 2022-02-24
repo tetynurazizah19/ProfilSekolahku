@@ -25,17 +25,17 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Ekskul(View view) {
-        Intent intent = new Intent(MainActivity.this, FasilitasActivity.class);
+        Intent intent = new Intent(MainActivity.this, EkskulActivity.class);
         startActivity(intent);
     }
 
     public void Fasilitas(View view) {
-        Intent intent = new Intent(MainActivity.this, GaleriActivity.class);
+        Intent intent = new Intent(MainActivity.this, FasilitasActivity.class);
         startActivity(intent);
     }
 
     public void Galeri(View view) {
-        Intent intent = new Intent(MainActivity.this, EkskulActivity.class);
+        Intent intent = new Intent(MainActivity.this, GaleriActivity.class);
         startActivity(intent);
     }
 
