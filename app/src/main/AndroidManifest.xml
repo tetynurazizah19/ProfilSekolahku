@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolahku">
         <activity
+            android:name=".buku9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".buku8Activity"
+            android:exported="false" />
+        <activity
+            android:name=".buku7Activity"
+            android:exported="false" />
+        <activity
             android:name=".FasilitasActivity"
             android:exported="false" />
         <activity
