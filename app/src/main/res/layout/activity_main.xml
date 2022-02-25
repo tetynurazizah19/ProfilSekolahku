@@ -24,11 +24,9 @@
                     android:layout_height="210dp"
                     android:scaleType="fitXY"
                     android:src="@drawable/header">
-
                 </ImageView>
             </RelativeLayout>
             <!--Header-->
-
             <!--            pembuka variabel menu 1 dan 2-->
             <LinearLayout
                 android:layout_width="match_parent"
@@ -60,7 +58,7 @@
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
                                 android:onClick="profil"
-                                android:src="@drawable/profil" />
+                                android:src="@drawable/profil"/>
 
                             <TextView
                                 android:layout_width="wrap_content"
