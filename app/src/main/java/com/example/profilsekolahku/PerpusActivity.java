@@ -1,27 +1,22 @@
 package com.example.profilsekolahku;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.profilsekolahku.Buku7Activity;
-import com.example.profilsekolahku.Buku8Activity;
-import com.example.profilsekolahku.Buku9Activity;
-import com.example.profilsekolahku.R;
-import com.example.profilsekolahku.SliderAdapter;
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.smarteist.autoimageslider.IndicatorView.animation.type.IndicatorAnimationType;
 import com.smarteist.autoimageslider.SliderAnimations;
 import com.smarteist.autoimageslider.SliderView;
 
 public class PerpusActivity extends AppCompatActivity {
     SliderView sliderView;
-    int[] images = {R.drawable.ekskul1,
+    int[] images = {R.drawable.ekskul,
             R.drawable.ekskul2,
-            R.drawable.ekskul1,
+            R.drawable.ekskul,
             R.drawable.ekskul2,
-            R.drawable.ekskul1};
+            R.drawable.ekskul};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

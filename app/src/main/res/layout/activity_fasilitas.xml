@@ -32,7 +32,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/perpus2"/>
+                    android:src="@drawable/perpusss"/>
 
             </androidx.cardview.widget.CardView>
 
@@ -88,7 +88,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/labipa"/>
+                    android:src="@drawable/lapipa"/>
 
             </androidx.cardview.widget.CardView>
 
@@ -143,7 +143,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/labkom"/>
+                    android:src="@drawable/lapkom"/>
 
             </androidx.cardview.widget.CardView>
 

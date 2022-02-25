@@ -21,8 +21,5 @@ public class SplashScreenActivity extends Activity {
         }
     }, 3000L); //3 detik
 
-}
-
-
-
+   }
 }
