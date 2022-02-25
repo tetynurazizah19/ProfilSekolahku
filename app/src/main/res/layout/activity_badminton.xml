@@ -75,8 +75,7 @@
                         android:layout_marginLeft="12dp"
                         android:layout_marginRight="12dp"
                         android:layout_marginTop="12dp"
-                        android:src="@drawable/logoOsis"/>
-
+                        android:src="@drawable/logovoli"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -85,7 +84,7 @@
                         android:textColor="#000"
                         android:textSize="18dp"
                         android:textStyle="bold"
-                        android:text="ORGANISASI OSIS"/>
+                        android:text="ORGANISASI BADMINTON"/>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -107,16 +106,14 @@
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="5dp"
                             android:textColor="#000"
-                            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."/>
-
+                            android:text="Sejarah badminton 1. Sejarah badminton -diperkenalkan sejak zaman silam Jepun • Hanetsukite yang telah dimainkan seawal abad ke-16. Barat • Battledore and Shuttlecock – dua atau lebih pemain memukul bola tangkis dengan menggunakan raket kecil"/>
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="5dp"
                             android:textColor="#000"
-                            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."/>
-
+                            android:text="SEJARAH BADMINTON DUNIA Permainan badminton telah diperkenalkan sejak zaman silam. Permainan badminton mula dimainkan di Yunani silam dan Mesir. Di Jepun, sukan yang berkaitan dengan badminton ialah Hanetsukite yang telah dimainkan seawal abad ke-16."/>
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -134,7 +131,7 @@
                             android:layout_marginRight="12dp"
                             android:textSize="12dp"
                             android:textStyle="bold"
-                            android:text="Hari Senin dan Rabu"
+                            android:text="Hari Selasa dan kamis"
                             android:textColor="#000"/>
 
                         <TextView
@@ -144,7 +141,7 @@
                             android:layout_marginRight="12dp"
                             android:textSize="12dp"
                             android:textStyle="bold"
-                            android:text="Pukul 13.45 - 14.45"
+                            android:text="Pukul 13.45 - 15.00"
                             android:textColor="#000"/>
 
 

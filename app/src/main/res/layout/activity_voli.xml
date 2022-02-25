@@ -75,8 +75,7 @@
                         android:layout_marginLeft="12dp"
                         android:layout_marginRight="12dp"
                         android:layout_marginTop="12dp"
-                        android:src="@drawable/logoOsis"/>
-
+                        android:src="@drawable/logovoli"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -85,7 +84,7 @@
                         android:textColor="#000"
                         android:textSize="18dp"
                         android:textStyle="bold"
-                        android:text="ORGANISASI OSIS"/>
+                        android:text="ORGANISASI VOLI"/>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -107,15 +106,27 @@
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="5dp"
                             android:textColor="#000"
-                            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."/>
+                            android:text="Permainan bola voli pertama kali diciptakan oleh William G Morgan pada tahun 1895 di Amerika Serikat, dulu bernama minitonette dan seiring berkembangnya zaman berubah nama menjadi Volley Ball atau Bola Voli yang mana masih kita pakai sekarang ini.
 
+Pada awalnya Morgan bertemu dengan James Naismith (Penemu Olahraga Basket), karena terinspirasi oleh james Naismith akhirnya Morgan menciptakan olahraga bola voli ini, kalau kita lihat penemuan bola voli itu terhitung setelah empat tahun adanya permainan bola basket.
+
+Olahraga bola voli sendiri berdiri di bawah arahan Federasi Internationale de Volleyball (FIVB) yang merupakan induk organisasi olahraga voli internasional. Kalau di Indonesia olahraga bola voli dibawahi oleh naungan Persatuan Bola Voli Seluruh Indonesia (PBVSI).
+
+Sedikit penjelasan mengenai perubahan nama bola voli, pada mulanya minitonette diciptakan khusus anggota YMCA untuk usia dewasa. Perubahan nama menjadi Volley Ball (Bola voli) terjadi pada tahun 1896, tepatnya di pertandingan pertama acara internasioanl YMCA Training School.
+
+Baca juga:  37 Hewan Langka yang Hampir Punah (Lengkap + Gambar)
+Morgan menjelaskan teknis permainan bola voli kepada semua instruktur pendidikan jasmani, dimana teknisnya permainan ini diikuti oleh dua grup yang masing-masing grup terdiri dari lima orang. Selain itu, permainan bola voli juga bisa dilakukan di dalam ataupun di luar lapangan ada juga dapat dimainakan oleh banyak orang."/>
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="5dp"
                             android:textColor="#000"
-                            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."/>
+                            android:text="Permainan bola voli di Indonesia masuk ketika massa penjajahan belanda sekitar tahun 1928. Akan tetapi, tempo dulu permainan ini tidak cukup merakyat karena hanya dimainkan oleh para bangsawan dan orang-orang belanda.
+
+Mulanya perkembangan bola voli di Indonesia di pelopori oleh guru-guru pendidikan jasmani dari belanda, dan kemudian seiring berkembangnya waktu, bola voli pun dimainkan para tentara saat melakukan latihan di lapangan terbuka, mereka pun juga sering mengadakan pertandingan antar regu.
+
+Bola voli berkembang sangat pesat, banyak klub-klub bermunculan dari kota-kota besar yang kemudian melahirkan persatuan bola voli seluruh Indonesia tepatnya pada tanggal 22 Januari 1955."/>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -134,7 +145,7 @@
                             android:layout_marginRight="12dp"
                             android:textSize="12dp"
                             android:textStyle="bold"
-                            android:text="Hari Senin dan Rabu"
+                            android:text="Hari Selasa dan kamis"
                             android:textColor="#000"/>
 
                         <TextView
