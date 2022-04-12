@@ -11,9 +11,9 @@
         android:layout_height="match_parent">
 
         <GridLayout
-            android:layout_gravity="center_horizontal"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
             android:alignmentMode="alignMargins"
             android:columnCount="1">
 
@@ -32,7 +32,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/perpusss"/>
+                    android:src="@drawable/perpusss" />
 
             </androidx.cardview.widget.CardView>
 
@@ -51,24 +51,24 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginRight="5dp"
                     android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="PERPUSTAKAAN"
                     android:textColor="@color/black"
                     android:textSize="10sp"
-                    android:textStyle="bold"
-                    android:text="PERPUSTAKAAN"/>
+                    android:textStyle="bold" />
 
                 <TextView
-                    android:textAlignment="center"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginRight="5dp"
                     android:layout_marginTop="20dp"
+                    android:layout_marginRight="5dp"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    android:textAlignment="center"
                     android:textColor="@color/black"
-                    android:textSize="10sp"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."/>
+                    android:textSize="10sp" />
 
             </androidx.cardview.widget.CardView>
             <!--                penutup fasilitas-->
@@ -88,7 +88,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/lapipa"/>
+                    android:src="@drawable/lapipa" />
 
             </androidx.cardview.widget.CardView>
 
@@ -107,24 +107,24 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginRight="5dp"
                     android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="LAB IPA"
                     android:textColor="@color/black"
                     android:textSize="10sp"
-                    android:textStyle="bold"
-                    android:text="LAB IPA"/>
+                    android:textStyle="bold" />
 
                 <TextView
-                    android:textAlignment="center"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginRight="5dp"
                     android:layout_marginTop="20dp"
+                    android:layout_marginRight="5dp"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    android:textAlignment="center"
                     android:textColor="@color/black"
-                    android:textSize="10sp"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."/>
+                    android:textSize="10sp" />
 
             </androidx.cardview.widget.CardView>
             <!--                penutup fasilitas-->
@@ -143,7 +143,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/lapkom"/>
+                    android:src="@drawable/lapkom" />
 
             </androidx.cardview.widget.CardView>
 
@@ -162,24 +162,24 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginRight="5dp"
                     android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="LAB KOMPUTER"
                     android:textColor="@color/black"
                     android:textSize="10sp"
-                    android:textStyle="bold"
-                    android:text="LAB KOMPUTER"/>
+                    android:textStyle="bold" />
 
                 <TextView
-                    android:textAlignment="center"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginRight="5dp"
                     android:layout_marginTop="20dp"
+                    android:layout_marginRight="5dp"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    android:textAlignment="center"
                     android:textColor="@color/black"
-                    android:textSize="10sp"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."/>
+                    android:textSize="10sp" />
 
             </androidx.cardview.widget.CardView>
             <!--                penutup fasilitas-->
